@@ -1,6 +1,6 @@
 # Chan Zi Ling
 
-**Business Analyst | Graduate from Bachelor (Hons)Information Technology major Business Analyst
+**Business Analyst | Graduate from Bachelor (Hons)Information Technology major Business Analyst**
 
 ## About Me
 
