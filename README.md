@@ -1,4 +1,4 @@
-# Ziling Chen
+# Chan Zi Ling
 
 **Business Analyst | Business Analysis | Data & Technology**
 
