@@ -2,15 +2,15 @@
 
 **Business Analyst | Business Analysis • Application Enhancement • Data & Technology**
 
-I am a Business Analyst with professional experience in fintech and business operations, with a focus on understanding business requirements, analyzing workflows, and translating business needs into functional solutions.
+I am a Business Analyst with professional experience in fintech, focusing on requirements analysis, application enhancement, business process analysis, and solution validation.
 
-My experience includes working on application enhancements, requirements analysis, UI/UX validation, UAT,and system testing. I work closely with designers, developers, QA teams, and external vendors throughout the solution delivery process.
+My experience includes analysing business and system requirements, reviewing workflows, validating application functionality and UI behaviour, and supporting UAT and system testing. I work closely with business stakeholders, designers, IT, QA teams, and external vendors throughout the solution delivery process.
 
-I also have a technical foundation in SQL, Python, Power BI, Tableau, Excel, MySQL, and Figma, which allows me to work comfortably across both business and technology teams.
+With a technical foundation in SQL, Python, Power BI, Tableau, Excel, MySQL, and Figma, I am comfortable working across both business and technology teams.
 
-This portfolio highlights selected projects that demonstrate how I approach requirements, analyze business processes, validate solutions, and support system improvements.
+This portfolio showcases selected professional projects and demonstrates how I approach requirements, analyse business processes, validate system behaviour, and support application improvements.
 
-> **Confidentiality Notice:** Company-specific information, confidential documents, internal data, and proprietary screenshots have been excluded or recreated using anonymized information for portfolio purposes.
+> **Confidentiality Notice:** Company-specific information, confidential documents, internal data, and proprietary screenshots have been excluded or recreated using anonymised information for portfolio purposes.
 
 ---
 
@@ -23,15 +23,17 @@ This portfolio highlights selected projects that demonstrate how I approach requ
 * Business Process Analysis
 * Process Flow & Workflow Analysis
 * Business & System Gap Analysis
+* Business Rule Analysis
 
-### Application & Product Support
+### Application & System Analysis
 
 * Application Enhancement
+* System Behaviour Analysis
 * UI/UX Validation
+* Workflow Validation
 * Functional Testing
 * UAT
-* System Workflow Validation
-* Defect & Issue Identification
+* Issue & Defect Identification
 
 ### Data & Technology
 
@@ -52,22 +54,20 @@ This portfolio highlights selected projects that demonstrate how I approach requ
 
 Worked on application and system enhancement initiatives within a fintech environment, collaborating with business, design, IT, QA, and external vendor teams.
 
-**Selected Case Studies**
+#### Selected Case Studies
 
-* **iSpeed 2.0 Application Enhancement**
-  Requirements analysis, workflow analysis, UI/UX validation, and coordination across business, design, and technology teams.
+**[iSpeed 2.0 Application Enhancement](Rakuten%20Trade/iSpeed%202.0%20Enhancement/README.md)**
 
-* **Foreign Trading Order Enhancement**
-  Analysis of trading order workflows and functional requirements for enhancements to foreign market trading capabilities.
+Requirements analysis, business and workflow analysis, UI validation, market data validation, and collaboration across business, design, and technology teams.
 
-* **SDK Integration & Functional Testing**
-  Validation of application behaviour and UI functionality following SDK-related changes.
+**[Foreign Trading Order Enhancement](Rakuten%20Trade/Foreign%20Trading%20Order%20Enhancement/README.md)**
 
-* **ICE Data Migration**
-  Data consistency and functional validation during system data migration.
 
-* **MFA Enhancement & Testing**
-  Validation of authentication rules and expected system behaviour.
+Analysis of foreign market trading functionality, order types, business rules, workflow behaviour, and application requirements.
+
+**[Testing & UAT](Rakuten%20Trade/Testing%20%26%20UAT/README.md)**
+
+Functional testing, UAT, UI validation, data consistency checking, business rule validation, and application behaviour analysis across multiple initiatives.
 
 ---
 
@@ -75,71 +75,67 @@ Worked on application and system enhancement initiatives within a fintech enviro
 
 **Business Analyst Intern**
 
-Supported business operations, reporting, workflow improvement, and process documentation across multiple departments.
+Supported business operations, reporting, workflow activities, and process documentation across multiple departments.
 
-**Selected Case Studies**
+Key areas included:
 
-* **Business Performance Dashboard**
-  Developed and maintained dashboards for monitoring sales and gross profit performance.
-
-* **SGPM Monitoring**
-  Supported monitoring and reporting of performance against defined target ranges.
-
-* **Operations Workflow Improvement**
-  Supported operational workflows involving purchase orders, approvals, and system-based processes.
-
-* **Process Documentation**
-  Documented business processes and workflows to improve process understanding and consistency.
+* Business performance dashboards and reporting
+* Sales and gross profit monitoring
+* SGPM performance monitoring
+* Purchase order and approval workflows
+* Operational reporting
+* Business process documentation
+* Stakeholder coordination
 
 ---
 
-## Selected Projects
+## Portfolio Structure
 
 ### Professional Projects
 
-**iSpeed 2.0 Application Enhancement**
-Requirements • Process Analysis • UI/UX • UAT
-
-**Foreign Trading Order Enhancement**
-Requirements • Functional Analysis • Workflow • UI Validation
-
-**SDK Testing**
-Functional Testing • UI Validation • Issue Identification
-
-**ICE Data Migration**
-Data Validation • Functional Testing • Consistency Checking
+| Project                                | Focus                                                          |
+| -------------------------------------- | -------------------------------------------------------------- |
+| **iSpeed 2.0 Application Enhancement** | Requirements • Process Analysis • UI • Market Data             |
+| **Foreign Trading Order Enhancement**  | Requirements • Functional Analysis • Business Rules • Workflow |
+| **Testing & UAT**                      | UAT • Functional Testing • Data Validation • UI Validation     |
 
 ---
 
-### Academic Projects
+## Academic Background
 
-**Job Recommendation System**
-Python • Machine Learning • Flask • MySQL
+**Bachelor of Information Technology (Hons)**
+INTI International University
+Major: Business Analysis
 
-A recommendation system developed to match users with suitable job opportunities based on user information and job-related data.
-
-**Public Bank Mobile Application — Junior Mode**
-Figma • Android Studio • Java
-
-Designed and developed a prototype mobile banking feature focused on improving usability for younger users.
+My academic background provided a foundation in business analysis, data analytics, databases, software development, and information technology.
 
 ---
 
 ## Portfolio Focus
 
-Through these projects, I demonstrate experience in:
+### Business Analysis
 
-**Business Analysis**
-Requirements → Process Analysis → Functional Solutions
+**Requirements → Process Analysis → Functional Solutions**
 
-**Application Enhancement**
-Business Needs → System Changes → UI/UX Validation
+Understanding business needs and translating them into clear system and functional requirements.
 
-**Data & Technology**
-Data → Analysis → Insights → Business Decisions
+### Application Enhancement
 
-**Quality & Validation**
-Requirements → Testing → UAT → Solution Validation
+**Business Needs → System Changes → Validation**
+
+Analysing application behaviour, workflows, and UI changes to support system improvements.
+
+### Data & Technology
+
+**Data → Analysis → Business Decisions**
+
+Using data and technical tools to support analysis, validation, and business decision-making.
+
+### Quality & Validation
+
+**Requirements → Testing → UAT → Solution Validation**
+
+Validating system behaviour against requirements, business rules, expected workflows, and production behaviour.
 
 ---
 
@@ -149,8 +145,11 @@ I am particularly interested in opportunities involving:
 
 * Business Systems Analysis
 * IT & Application Analysis
+* Functional Analysis
 * Digital Transformation
 * Product & Application Enhancement
 * Data & Technology
 * AI-enabled Business Solutions
-* FinTech / HealthTech / Aviation Technology
+* FinTech
+* HealthTech
+* Aviation Technology
