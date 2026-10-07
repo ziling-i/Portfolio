@@ -1,86 +1,156 @@
 # Chan Zi Ling
 
-**Business Analyst | Graduate from Bachelor (Hons)Information Technology major Business Analyst**
+**Business Analyst | Business Analysis • Application Enhancement • Data & Technology**
 
-## About Me
+I am a Business Analyst with professional experience in fintech and business operations, with a focus on understanding business requirements, analyzing workflows, and translating business needs into functional solutions.
 
-I am a Business Analyst with experience in fintech and business operations, with a focus on requirements analysis, business process analysis, application enhancement, UI/UX validation, and UAT.
+My experience includes working on application enhancements, requirements analysis, UI/UX validation, UAT,and system testing. I work closely with designers, developers, QA teams, and external vendors throughout the solution delivery process.
 
-I have experience working with cross-functional teams including business stakeholders, designers, developers, QA teams, and external vendors to translate business requirements into functional solutions.
+I also have a technical foundation in SQL, Python, Power BI, Tableau, Excel, MySQL, and Figma, which allows me to work comfortably across both business and technology teams.
 
-My technical exposure includes SQL, Python, Power BI, Tableau, Excel, Figma, and MySQL.
+This portfolio highlights selected projects that demonstrate how I approach requirements, analyze business processes, validate solutions, and support system improvements.
 
-This portfolio showcases selected projects and case studies from my professional and academic experience.
-
-> **Note:** Company-specific information, confidential documents, internal data, and proprietary screenshots have been excluded or recreated in an anonymized format.
+> **Confidentiality Notice:** Company-specific information, confidential documents, internal data, and proprietary screenshots have been excluded or recreated using anonymized information for portfolio purposes.
 
 ---
 
-## Work Experience
+## What I Do
+
+### Requirements & Business Analysis
+
+* Requirements Analysis
+* Functional Requirements
+* Business Process Analysis
+* Process Flow & Workflow Analysis
+* Business & System Gap Analysis
+
+### Application & Product Support
+
+* Application Enhancement
+* UI/UX Validation
+* Functional Testing
+* UAT
+* System Workflow Validation
+* Defect & Issue Identification
+
+### Data & Technology
+
+* SQL & MySQL
+* Python
+* Power BI
+* Tableau
+* Excel
+* Figma
+
+---
+
+## Professional Experience
 
 ### Rakuten Trade
 
 **Business Analyst**
 
-Selected case studies:
+Worked on application and system enhancement initiatives within a fintech environment, collaborating with business, design, IT, QA, and external vendor teams.
 
-* iSpeed 2.0 Application Enhancement
-* Foreign Trading Order Enhancement
-* SDK Testing
-* ICE Data Migration
-* MFA Testing
+**Selected Case Studies**
+
+* **iSpeed 2.0 Application Enhancement**
+  Requirements analysis, workflow analysis, UI/UX validation, and coordination across business, design, and technology teams.
+
+* **Foreign Trading Order Enhancement**
+  Analysis of trading order workflows and functional requirements for enhancements to foreign market trading capabilities.
+
+* **SDK Integration & Functional Testing**
+  Validation of application behaviour and UI functionality following SDK-related changes.
+
+* **ICE Data Migration**
+  Data consistency and functional validation during system data migration.
+
+* **MFA Enhancement & Testing**
+  Validation of authentication rules and expected system behaviour.
+
+---
 
 ### CIEF Worldwide
 
 **Business Analyst Intern**
 
-Selected case studies:
+Supported business operations, reporting, workflow improvement, and process documentation across multiple departments.
 
-* Business Performance Dashboard
-* SGPM Monitoring
-* Operations Workflow
-* Process Documentation
+**Selected Case Studies**
 
----
+* **Business Performance Dashboard**
+  Developed and maintained dashboards for monitoring sales and gross profit performance.
 
-## Technical Skills
+* **SGPM Monitoring**
+  Supported monitoring and reporting of performance against defined target ranges.
 
-### Business Analysis
+* **Operations Workflow Improvement**
+  Supported operational workflows involving purchase orders, approvals, and system-based processes.
 
-* Requirements Analysis
-* Business Process Analysis
-* Functional Requirements
-* Stakeholder Communication
-* UAT
-* Process Flow
-
-### Data & Technology
-
-* SQL
-* Python
-* Power BI
-* Tableau
-* Excel
-* MySQL
-* Figma
+* **Process Documentation**
+  Documented business processes and workflows to improve process understanding and consistency.
 
 ---
 
-## Academic Projects
+## Selected Projects
 
-* Job Recommendation System
-* Public Bank Mobile Application — Junior Mode
+### Professional Projects
+
+**iSpeed 2.0 Application Enhancement**
+Requirements • Process Analysis • UI/UX • UAT
+
+**Foreign Trading Order Enhancement**
+Requirements • Functional Analysis • Workflow • UI Validation
+
+**SDK Testing**
+Functional Testing • UI Validation • Issue Identification
+
+**ICE Data Migration**
+Data Validation • Functional Testing • Consistency Checking
 
 ---
 
-## Portfolio Structure
+### Academic Projects
 
-This portfolio contains selected case studies demonstrating my experience in:
+**Job Recommendation System**
+Python • Machine Learning • Flask • MySQL
 
-* Business Analysis
-* Requirements Engineering
-* Application Enhancement
-* Data Analysis
-* Process Improvement
-* UI/UX Validation
-* User Acceptance Testing
+A recommendation system developed to match users with suitable job opportunities based on user information and job-related data.
+
+**Public Bank Mobile Application — Junior Mode**
+Figma • Android Studio • Java
+
+Designed and developed a prototype mobile banking feature focused on improving usability for younger users.
+
+---
+
+## Portfolio Focus
+
+Through these projects, I demonstrate experience in:
+
+**Business Analysis**
+Requirements → Process Analysis → Functional Solutions
+
+**Application Enhancement**
+Business Needs → System Changes → UI/UX Validation
+
+**Data & Technology**
+Data → Analysis → Insights → Business Decisions
+
+**Quality & Validation**
+Requirements → Testing → UAT → Solution Validation
+
+---
+
+## Career Interests
+
+I am particularly interested in opportunities involving:
+
+* Business Systems Analysis
+* IT & Application Analysis
+* Digital Transformation
+* Product & Application Enhancement
+* Data & Technology
+* AI-enabled Business Solutions
+* FinTech / HealthTech / Aviation Technology
